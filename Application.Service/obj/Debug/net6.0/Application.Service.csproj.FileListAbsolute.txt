@@ -1,0 +1,15 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\Application.Service.deps.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\Application.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\ref\Application.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\ApplicationModels.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\bin\Debug\net6.0\ApplicationModels.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.csproj.CopyComplete
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\ref\Application.Service.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\Application.Service\obj\Debug\net6.0\Application.Service.pdb

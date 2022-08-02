@@ -1,0 +1,12 @@
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\bin\Debug\net6.0\ApplicationModels.deps.json
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\bin\Debug\net6.0\ApplicationModels.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\bin\Debug\net6.0\ref\ApplicationModels.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\bin\Debug\net6.0\ApplicationModels.pdb
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ref\ApplicationModels.dll
+C:\Users\Sumayya Uthman\source\repos\Application\New App\Application\ApplicationModels\obj\Debug\net6.0\ApplicationModels.pdb

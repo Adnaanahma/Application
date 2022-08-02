@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Application.Service/1.0.0": {
+        "dependencies": {
+          "ApplicationModels": "1.0.0"
+        },
+        "runtime": {
+          "Application.Service.dll": {}
+        }
+      },
+      "ApplicationModels/1.0.0": {
+        "runtime": {
+          "ApplicationModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
